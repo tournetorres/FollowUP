@@ -1,12 +1,20 @@
 {
   "name": "FollowUP",
   "version": "1.0.0",
-  "description": "Track and streamline the post-job application process",
+  "description": "Track and streamline the post-job-application process",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "tournetorres@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.0"
+  }
 }

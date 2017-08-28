@@ -1,0 +1,7 @@
+{
+    "presets": [
+        "env", 
+        ["latest", { "modules": false }],
+        "react"
+    ]
+}
