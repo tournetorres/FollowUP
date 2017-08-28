@@ -16,6 +16,8 @@ A short description of the motivation behind the creation and maintenance of the
 
 ## Installation
 
+_npm install_
+
 Provide code examples and explanations of how to get the project.
 
 ## API Reference
