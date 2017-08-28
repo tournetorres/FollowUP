@@ -40,3 +40,5 @@ docs/api/
 .env
 
 /build
+
+src/**/*.css
