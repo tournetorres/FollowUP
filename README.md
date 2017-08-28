@@ -16,7 +16,17 @@ A short description of the motivation behind the creation and maintenance of the
 
 ## Installation
 
+*_To install:_*
+
 _npm install_
+
+*_To compile:_*
+
+_npm run build_
+
+*_Start the dev server:_*
+
+_npm start_
 
 Provide code examples and explanations of how to get the project.
 
