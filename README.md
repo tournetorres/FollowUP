@@ -4,6 +4,17 @@ _Track and streamline the post-job-application process._
 
 _For those of us trying to manage employment opportunities in software development, keeping track of interviews, applications, code challenges, and frequent follow-ups can be a tedious process. Follow-up manages all post-application process needs by seamless integration with calendar, email, social media, and more._
 
+To start dev server: 
+npm start
+
+To build: 
+npm run build
+
+To test: 
+npm test
+
+
+--------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
