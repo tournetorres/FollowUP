@@ -82,7 +82,7 @@ passport.use(new GoogleStrategy(
 ));
 
 // sync database, then start server
-db.sync(/*{ force: true }*/) // uncomment force true to clear database with each sync
+db.sync({ force: true }) // uncomment force true to clear database with each sync
   .then(() => {
     app.listen(PORT, () => {
       console.log('Server listening on Port: ', PORT);
