@@ -1,5 +1,9 @@
-# fullstack-react-boilerplate (tiny bones)
-Starting point for Full Stack React-based Javascript Applications!
+# FollowUP
+
+_Track and streamline the post-job-application process._
+
+_For those of us trying to manage employment opportunities in software development, keeping track of interviews, applications, code challenges, and frequent follow-ups can be a tedious process. Follow-up manages all post-application process needs by seamless integration with calendar, email, social media, and more._
+
 
 ### Features:
 * React
